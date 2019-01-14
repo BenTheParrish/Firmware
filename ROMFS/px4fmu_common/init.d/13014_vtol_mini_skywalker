@@ -74,6 +74,10 @@ then
     param set FW_ARSP_MODE 0
 
     param set SENS_BOARD_ROT 0
+    param set PWM_AUX_REV3 1
+    param set CBRK_IO_SAFETY 22027
+    param set BAT_N_CELLS 2
+    param set BAT_V_CHARGED 4.2
 fi
 
 set MIXER vtol_miniskywalker
