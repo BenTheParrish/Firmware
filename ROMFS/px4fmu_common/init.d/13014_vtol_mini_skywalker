@@ -84,3 +84,4 @@ set MIXER_AUX vtol_AER
 set PWM_AUX_DISARMED 950
 
 set MAV_TYPE 21
+
