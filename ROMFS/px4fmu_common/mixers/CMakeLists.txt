@@ -82,8 +82,10 @@ px4_add_romfs_files(
 	ugv_generic.main.mix
 	Viper.main.mix
 	vtol_AAERT.aux.mix
+	vtol_AER.aux.mix
 	vtol_AAVVT.aux.mix
 	vtol_convergence.main.mix
+	vtol_miniskywalker.main.mix
 	vtol_delta.aux.mix
 	wingwing.main.mix
 	zmr250.main.mix
