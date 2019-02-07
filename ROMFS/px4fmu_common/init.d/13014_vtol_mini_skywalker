@@ -16,6 +16,7 @@
 # @output AUX2 Elevator
 # @output AUX3 Rudder
 # @output AUX4 Aileron2
+#
 
 sh /etc/init.d/rc.vtol_defaults
 
